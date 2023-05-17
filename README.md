@@ -17,7 +17,7 @@ as θ plays no role in the the system's model.
 ```
 MIPParameters.m            -- Initialises a list of parameters in the workspace.
 nLMIp2.slx                 -- Simulink model containing th non-linear MiP model.
-Report.pdf -- Detailed report of the experiments conducted to arrive at the optimum eigen values for the controller.
+Report.pdf                 -- Detailed report of the experiments conducted to arrive at the optimum eigen values for the controller.
 ```
 
 
